@@ -1,16 +1,10 @@
-# himanshu
+# Flutter UI 
 
-A new Flutter project.
+Just start learning flutter 2 days back. And fall in love with flutter. So i tried to make clone of Facebook, Instagram and Twitter Profile page UI only. And this is what i able to build. Hope you like and gives your feedbacks..
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+<p>
+<img src="https://raw.githubusercontent.com/iamhimanshu0/Flutter_/master/Flutter_UI/images/insta.jpg" alt="Instagram" width="250">
+<img src="https://raw.githubusercontent.com/iamhimanshu0/Flutter_/master/Flutter_UI/images/tw.jpg" alt="Twitter" width="250">
+<img src="https://raw.githubusercontent.com/iamhimanshu0/Flutter_/master/Flutter_UI/images/fb.jpg" alt="Facebook" width="250">
+</p>
