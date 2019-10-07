@@ -1,16 +1,10 @@
-# hireprofile
+# Let's Connect
+Concept design for chat application in flutter
 
-A new Flutter project.
 
-## Getting Started
+## Screenshots
+<p>
+<img src="https://raw.githubusercontent.com/iamhimanshu0/Flutter_/master/letsConnect/images/ss.jpeg" alt="chatting" width="250">
+<img src="https://raw.githubusercontent.com/iamhimanshu0/Flutter_/master/letsConnect/images/ss1.jpeg" alt="Chatting" width="250">
+</p>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
