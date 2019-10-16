@@ -21,7 +21,8 @@ class HomePage extends StatefulWidget {
 }
 
 class _HomePageState extends State<HomePage> {
-  var url = "https://newsapi.org/v2/top-headlines?country=in&apiKey=497907d0cfb1480bacda0da30b76738f";
+  var APIKEY = "Add your api key"
+  var url = "https://newsapi.org/v2/top-headlines?country=in&apiKey=$APIKEY";
 
   newsClass news;
   
