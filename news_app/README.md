@@ -1,16 +1,21 @@
-# news_app
+# News App
 
-A new Flutter project.
+<p>So i'm so lazy to read whole news. Just want to know what is heading and what is going on in the world. So for this i have made my own news app using flutter and free API from https://newsapi.org</p>
 
-## Getting Started
+## Screenshots
+<p>
+<img src="https://raw.githubusercontent.com/iamhimanshu0/Flutter_/master/news_app/images/img.jpeg" alt="register" width="250">
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/iamhimanshu0/Flutter_/master/news_app/images/img_1.jpeg" alt="Chatting" width="250">
+  &nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/iamhimanshu0/Flutter_/master/news_app/images/img_2.jpeg" alt="Chatting" width="250">
+  &nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/iamhimanshu0/Flutter_/master/news_app/images/img_3.jpeg" alt="Chatting" width="250">
+  &nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/iamhimanshu0/Flutter_/master/news_app/images/img_4.jpeg" alt="Chatting" width="250">
+</p>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Things that i have to add in future..
+<p>
+  i need to change many things in this app like "Pull to refresh" and add more news form more countries. And make UI look good. 
+<p>
