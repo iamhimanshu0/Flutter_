@@ -1,16 +1,24 @@
 # playstore_ui
 
-A new Flutter project.
+Try to recreat Google Play Store App UI
 
-## Getting Started
+## Screenshots
+<p>
+<img src="https://raw.githubusercontent.com/iamhimanshu0/Flutter_/master/playstore_ui/images/Img_1.png" alt="register" width="250">
+&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/iamhimanshu0/Flutter_/master/playstore_ui/images/Img_2.png" alt="register" width="250">
+&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/iamhimanshu0/Flutter_/master/playstore_ui/images/Img_3.png" alt="register" width="250">
+&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/iamhimanshu0/Flutter_/master/playstore_ui/images/Img_4.png" alt="register" width="250">
+&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/iamhimanshu0/Flutter_/master/playstore_ui/images/Img_5.png" alt="register" width="250">
+&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/iamhimanshu0/Flutter_/master/playstore_ui/images/Img_6.png" alt="register" width="250">
+&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/iamhimanshu0/Flutter_/master/playstore_ui/images/Img_7.png" alt="register" width="250">
+&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/iamhimanshu0/Flutter_/master/playstore_ui/images/Img_8.png" alt="register" width="250">
+&nbsp;&nbsp;
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+</p>
